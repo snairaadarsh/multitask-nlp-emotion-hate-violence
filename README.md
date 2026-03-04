@@ -31,7 +31,6 @@ The framework systematically evaluates classical ML models, deep learning archit
 ## Project Structure
 ```
 multitask-nlp-content-moderation/
-├── data/                        # Raw and augmented datasets
 ├── notebooks/                   # Step-by-step Jupyter notebooks
 ├── results/                     # Confusion matrices, LIME plots, comparison figures
 └── README.md
